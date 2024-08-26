@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ebf.h": "c",
+        "stdio.h": "c",
+        "ebu2ebf.h": "c",
+        "ebc2ebu.h": "c",
+        "__bit_reference": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "unordered_map": "c"
+    }
+}

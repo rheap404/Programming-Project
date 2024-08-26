@@ -1,0 +1,1 @@
+char* ebf2ebu(char* inFile, char* outFile, Img* image);

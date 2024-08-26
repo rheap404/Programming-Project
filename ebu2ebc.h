@@ -1,0 +1,1 @@
+char* ebu2ebc(char* inFile, char* outFile);
